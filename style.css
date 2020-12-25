@@ -1,0 +1,50 @@
+/* Top-Section */
+
+#top{
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    
+}
+.nav-item{
+    padding: 10px;
+}
+
+.name{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    margin-top: 200px;
+    font-size: 50px;
+
+}
+.quote{
+    font-size: 15px;
+    color: white;
+}
+
+.image{
+    padding-left: 20px;
+    margin-bottom: 80px;
+}
+
+/* Middle-section */
+#middle{
+    background-color: #252525;
+    color: white;
+}
+.co{
+    text-align: center;
+
+    padding-top: 20px;
+    margin-bottom: 70px;
+}
+p{
+    font-size: 18px;
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: 1000;
+}
